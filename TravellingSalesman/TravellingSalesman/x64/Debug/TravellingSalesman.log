@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\dev\projects\Travelling-Salesman\TravellingSalesman\TravellingSalesman\main.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TravellingSalesman.vcxproj -> D:\dev\projects\Travelling-Salesman\TravellingSalesman\x64\Debug\TravellingSalesman.exe
